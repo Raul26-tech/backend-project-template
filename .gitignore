@@ -131,4 +131,5 @@ dist
 
 # Custom
 .env
-.env.prod
+.env.example
+.env.production
